@@ -29,4 +29,4 @@ The Solar Farm Management System is a Java-based application that helps administ
 - Custom DataException for data layer errors
 - Validation results using PanelResult class
 - User-friendly error messages in UI
-- 
+  
